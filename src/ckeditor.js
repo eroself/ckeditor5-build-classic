@@ -51,7 +51,6 @@ import ImageResize from '@ckeditor/ckeditor5-image/src/imageresize';
 import Mention from '@ckeditor/ckeditor5-mention/src/mention';
 import PageBreak from '@ckeditor/ckeditor5-page-break/src/pagebreak';
 import RemoveFormat from '@ckeditor/ckeditor5-remove-format/src/removeformat';
-import RestrictedEditingMode from '@ckeditor/ckeditor5-restricted-editing/src/restrictededitingmode';
 import StandardEditingMode from '@ckeditor/ckeditor5-restricted-editing/src/standardeditingmode';
 import SpecialCharacters from '@ckeditor/ckeditor5-special-characters/src/specialcharacters';
 import SpecialCharactersEssentials from '@ckeditor/ckeditor5-special-characters/src/specialcharactersessentials';
@@ -102,7 +101,6 @@ const plugins = [
 	PendingActions,
 	RemoveFormat,
 	RemoveFormatLinks,
-	RestrictedEditingMode,
 	StandardEditingMode,
 	SpecialCharacters,
 	SpecialCharactersEssentials,
