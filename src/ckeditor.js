@@ -55,6 +55,9 @@ import StandardEditingMode from '@ckeditor/ckeditor5-restricted-editing/src/stan
 import SpecialCharacters from '@ckeditor/ckeditor5-special-characters/src/specialcharacters';
 import SpecialCharactersEssentials from '@ckeditor/ckeditor5-special-characters/src/specialcharactersessentials';
 import TodoList from '@ckeditor/ckeditor5-list/src/todolist';
+import Font from '@ckeditor/ckeditor5-font/src/font';
+
+import './custom.css';
 
 export class ClassicEditor extends ClassicEditorBase {}
 export class InlineEditor extends InlineEditorBase {}
@@ -82,6 +85,7 @@ const plugins = [
 	EasyImage,
 	Base64UploadAdapter,
 	Heading,
+	Font,
 	Highlight,
 	HorizontalLine,
 	Image,
@@ -126,6 +130,11 @@ const config = {
 			'subscript',
 			'superscript',
 			'removeFormat',
+			'|',
+			'fontSize',
+			'fontFamily',
+			'fontColor',
+			'fontBackgroundColor',
 			'|',
 			'link',
 			'bulletedList',
