@@ -112,6 +112,7 @@
     "@ckeditor/ckeditor5-remove-format": "^18.0.0",
     "@ckeditor/ckeditor5-restricted-editing": "^18.0.0",
     "@ckeditor/ckeditor5-special-characters": "^18.0.0",
-    "@ckeditor/ckeditor5-watchdog": "^18.0.0"
+    "@ckeditor/ckeditor5-watchdog": "^18.0.0",
+    "@ckeditor/ckeditor5-word-count": "^18.0.0"
   }
 }

@@ -56,8 +56,7 @@ import SpecialCharacters from '@ckeditor/ckeditor5-special-characters/src/specia
 import SpecialCharactersEssentials from '@ckeditor/ckeditor5-special-characters/src/specialcharactersessentials';
 import TodoList from '@ckeditor/ckeditor5-list/src/todolist';
 import Font from '@ckeditor/ckeditor5-font/src/font';
-
-import './custom.css';
+import WordCount from '@ckeditor/ckeditor5-word-count/src/wordcount';
 
 export class ClassicEditor extends ClassicEditorBase {}
 export class InlineEditor extends InlineEditorBase {}
@@ -113,7 +112,8 @@ const plugins = [
 	TableToolbar,
 	TableProperties,
 	TableCellProperties,
-	TextTransformation
+	TextTransformation,
+	WordCount
 ];
 
 // Editor configuration.

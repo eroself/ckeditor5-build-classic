@@ -122,7 +122,8 @@
       <change beforePath="$PROJECT_DIR$/build/translations/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/translations/vi.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/translations/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/translations/zh-cn.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/translations/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/translations/zh.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ckeditor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +201,9 @@
       <workItem from="1587901301252" duration="682000" />
       <workItem from="1587937804703" duration="4348000" />
       <workItem from="1587975608023" duration="926000" />
-      <workItem from="1587978802737" duration="5575000" />
+      <workItem from="1587978802737" duration="8436000" />
+      <workItem from="1587991345260" duration="521000" />
+      <workItem from="1587992401525" duration="4347000" />
     </task>
     <servers />
   </component>
