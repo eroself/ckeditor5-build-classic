@@ -59,6 +59,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5685b313-1cba-4d66-a567-a51df38ddd3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/ckeditor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ckeditor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/ckeditor.js.map" afterDir="false" />
@@ -151,6 +152,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1b3FQs4yfOk9Ck0oX97t2Yh13Kk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -204,6 +208,9 @@
       <workItem from="1587978802737" duration="8436000" />
       <workItem from="1587991345260" duration="521000" />
       <workItem from="1587992401525" duration="4347000" />
+      <workItem from="1589104838438" duration="25000" />
+      <workItem from="1589105958817" duration="32000" />
+      <workItem from="1591702978190" duration="638000" />
     </task>
     <servers />
   </component>
@@ -253,14 +260,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="287" y="123" key="#Inspections" timestamp="1591704612615">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="287" y="123" key="#Inspections/0.0.1368.872@0.0.1368.872" timestamp="1591704612615" />
     <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587894935324">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872@0.0.1368.872" timestamp="1587894935324" />
-    <state x="131" y="71" key="DiffContextDialog" timestamp="1587895938634">
+    <state x="131" y="71" key="DiffContextDialog" timestamp="1591704471692">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="131" y="71" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1587895938634" />
+    <state x="131" y="71" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1591704471692" />
     <state width="1312" height="245" key="GridCell.Tab.0.bottom" timestamp="1587901124841">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -277,10 +288,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="1312" height="245" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1587901124841" />
-    <state x="447" y="139" key="RollbackChangesDialog" timestamp="1587895948694">
+    <state x="447" y="139" key="RollbackChangesDialog" timestamp="1591704473070">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="447" y="139" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1587895948694" />
+    <state x="447" y="139" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1591704473070" />
     <state x="394" y="170" width="579" height="530" key="find.popup" timestamp="1587900515485">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

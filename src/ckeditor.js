@@ -57,6 +57,7 @@ import SpecialCharactersEssentials from '@ckeditor/ckeditor5-special-characters/
 import TodoList from '@ckeditor/ckeditor5-list/src/todolist';
 import Font from '@ckeditor/ckeditor5-font/src/font';
 import WordCount from '@ckeditor/ckeditor5-word-count/src/wordcount';
+import ExportPdf from '@ckeditor/ckeditor5-export-pdf/src/exportpdf';
 
 export class ClassicEditor extends ClassicEditorBase {}
 export class InlineEditor extends InlineEditorBase {}
@@ -113,6 +114,7 @@ const plugins = [
 	TableProperties,
 	TableCellProperties,
 	TextTransformation,
+	ExportPdf,
 	WordCount
 ];
 
@@ -152,6 +154,7 @@ const config = {
 			'restrictedEditingException',
 			'todoList',
 			'|',
+			'exportPdf',
 			'imageUpload',
 			'ckfinder',
 			'blockQuote',
