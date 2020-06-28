@@ -196,7 +196,7 @@ BalloonEditor.defaultConfig = config;
 DcoupledEditor.defaultConfig = config;
 
 export default {
-	ClassicEditor, InlineEditor, BalloonEditor, DcoupledEditor
+	ClassicEditor, BalloonEditor, InlineEditor, DcoupledEditor
 };
 
 function RemoveFormatLinks( editor ) {
