@@ -9,7 +9,7 @@
 
 module.exports = {
 	extends: 'ckeditor5',
-	rules:{
-		"linebreak-style": 0
+	rules: {
+		'linebreak-style': 0
 	}
 };
