@@ -59,10 +59,10 @@ import Font from '@ckeditor/ckeditor5-font/src/font';
 import WordCount from '@ckeditor/ckeditor5-word-count/src/wordcount';
 import ExportPdf from '@ckeditor/ckeditor5-export-pdf/src/exportpdf';
 
-export class ClassicEditor extends ClassicEditorBase {}
-export class InlineEditor extends InlineEditorBase {}
-export class DcoupledEditor extends DecoupledEditorBase {}
-export class BalloonEditor extends BalloonEditorBase {}
+class ClassicEditor extends ClassicEditorBase {}
+class InlineEditor extends InlineEditorBase {}
+class DcoupledEditor extends DecoupledEditorBase {}
+class BalloonEditor extends BalloonEditorBase {}
 
 // Plugins to include in the build.
 const plugins = [
