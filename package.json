@@ -105,6 +105,7 @@
     "@ckeditor/ckeditor5-clipboard": "^20.0.0",
     "@ckeditor/ckeditor5-code-block": "^20.0.0",
     "@ckeditor/ckeditor5-export-pdf": "^0.0.4",
+    "@ckeditor/ckeditor5-export-word": "0.0.1",
     "@ckeditor/ckeditor5-font": "^20.0.0",
     "@ckeditor/ckeditor5-highlight": "^20.0.0",
     "@ckeditor/ckeditor5-horizontal-line": "^20.0.0",
