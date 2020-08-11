@@ -59,10 +59,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5685b313-1cba-4d66-a567-a51df38ddd3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/update.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ckeditor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +131,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\ckeditor5-build-custom" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -183,7 +189,8 @@
       <workItem from="1593921794246" duration="773000" />
       <workItem from="1593928779053" duration="3056000" />
       <workItem from="1594281744983" duration="53000" />
-      <workItem from="1595586189044" duration="1440000" />
+      <workItem from="1595586189044" duration="1975000" />
+      <workItem from="1597127623790" duration="5119000" />
     </task>
     <servers />
   </component>
@@ -258,34 +265,34 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="415" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1368.872@0.0.1368.872" timestamp="1591872531483" />
-    <state x="131" y="71" width="1094" height="725" key="DiffContextDialog" timestamp="1593922528721">
+    <state x="131" y="71" width="1094" height="725" key="DiffContextDialog" timestamp="1597140476290">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="131" y="71" width="1094" height="725" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1593922528721" />
+    <state x="131" y="71" width="1094" height="725" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1597140476290" />
     <state x="847" y="157" key="FileChooserDialogImpl" timestamp="1591872970477">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="847" y="157" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1591872970477" />
-    <state width="1249" height="313" key="GridCell.Tab.0.bottom" timestamp="1593347555022">
+    <state width="1326" height="322" key="GridCell.Tab.0.bottom" timestamp="1597140061544">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1249" height="313" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1593347555022" />
-    <state width="1249" height="313" key="GridCell.Tab.0.center" timestamp="1593347555022">
+    <state width="1326" height="322" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
+    <state width="1326" height="322" key="GridCell.Tab.0.center" timestamp="1597140061544">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1249" height="313" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1593347555022" />
-    <state width="1249" height="313" key="GridCell.Tab.0.left" timestamp="1593347555021">
+    <state width="1326" height="322" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
+    <state width="1326" height="322" key="GridCell.Tab.0.left" timestamp="1597140061544">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1249" height="313" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1593347555021" />
-    <state width="1249" height="313" key="GridCell.Tab.0.right" timestamp="1593347555022">
+    <state width="1326" height="322" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
+    <state width="1326" height="322" key="GridCell.Tab.0.right" timestamp="1597140061544">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1249" height="313" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1593347555022" />
-    <state x="198" y="119" key="RollbackChangesDialog" timestamp="1593922530368">
+    <state width="1326" height="322" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
+    <state x="198" y="119" key="RollbackChangesDialog" timestamp="1597140478173">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="198" y="119" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1593922530368" />
+    <state x="198" y="119" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1597140478173" />
     <state x="439" y="262" width="579" height="530" key="find.popup" timestamp="1591874400065">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -294,6 +301,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="113" y="70" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1593841484398" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1597136464096">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1597136464096" />
   </component>
   <component name="masterDetails">
     <states>
