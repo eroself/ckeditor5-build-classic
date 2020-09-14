@@ -28,8 +28,9 @@
 
 <script src="../build/ckeditor.js"></script>
 <script>
-	CKEDITOR.ClassicEditor.create( document.querySelector( '#editor' ) )
-		.then( editor => {
+	CKEDITOR.ClassicEditor.create( document.querySelector( '#editor' ), {
+		removePlugins: [ 'WProofreader' ]
+	}).then( editor => {
 			window.editor = editor;
 		} )
 		.catch( error => {

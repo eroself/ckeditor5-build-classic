@@ -118,8 +118,8 @@ const plugins = [
 	TextTransformation,
 	ExportPdf,
 	ExportWord,
-	WordCount,
-	WProofreader
+	WProofreader, // Needs configuration if added.
+	WordCount
 ];
 
 // Editor configuration.
@@ -185,11 +185,6 @@ const config = {
 			'tableProperties',
 			'tableCellProperties'
 		]
-	},
-	// This is default spelling and grammar checking configuration
-	wproofreader: {
-		serviceId: '',
-		srcUrl: 'path to wscbundle.js'
 	},
 	// This value must be kept in sync with the language defined in webpack.config.js.
 	language: 'en'
