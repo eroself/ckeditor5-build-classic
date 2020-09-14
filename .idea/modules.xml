@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ckeditor5-build-custom.iml" filepath="$PROJECT_DIR$/.idea/ckeditor5-build-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ckeditor5-build-classic.iml" filepath="$PROJECT_DIR$/ckeditor5-build-classic.iml" />
     </modules>
   </component>
 </project>

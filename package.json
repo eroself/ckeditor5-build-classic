@@ -115,6 +115,7 @@
     "@ckeditor/ckeditor5-restricted-editing": "^22.0.0",
     "@ckeditor/ckeditor5-special-characters": "^22.0.0",
     "@ckeditor/ckeditor5-watchdog": "^22.0.0",
-    "@ckeditor/ckeditor5-word-count": "^22.0.0"
+    "@ckeditor/ckeditor5-word-count": "^22.0.0",
+    "@webspellchecker/wproofreader-ckeditor5": "^1.0.5"
   }
 }

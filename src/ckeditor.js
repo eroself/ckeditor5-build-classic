@@ -59,6 +59,7 @@ import Font from '@ckeditor/ckeditor5-font/src/font';
 import WordCount from '@ckeditor/ckeditor5-word-count/src/wordcount';
 import ExportPdf from '@ckeditor/ckeditor5-export-pdf/src/exportpdf';
 import ExportWord from '@ckeditor/ckeditor5-export-word/src/exportword';
+import WProofreader from '@webspellchecker/wproofreader-ckeditor5/src/wproofreader';
 
 class ClassicEditor extends ClassicEditorBase {}
 class InlineEditor extends InlineEditorBase {}
@@ -117,7 +118,8 @@ const plugins = [
 	TextTransformation,
 	ExportPdf,
 	ExportWord,
-	WordCount
+	WordCount,
+	WProofreader
 ];
 
 // Editor configuration.
@@ -183,6 +185,11 @@ const config = {
 			'tableProperties',
 			'tableCellProperties'
 		]
+	},
+	// This is default spelling and grammar checking configuration
+	wproofreader: {
+		serviceId: '',
+		srcUrl: 'path to wscbundle.js'
 	},
 	// This value must be kept in sync with the language defined in webpack.config.js.
 	language: 'en'
