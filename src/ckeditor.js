@@ -60,6 +60,7 @@ import WordCount from '@ckeditor/ckeditor5-word-count/src/wordcount';
 import ExportPdf from '@ckeditor/ckeditor5-export-pdf/src/exportpdf';
 import ExportWord from '@ckeditor/ckeditor5-export-word/src/exportword';
 import WProofreader from '@webspellchecker/wproofreader-ckeditor5/src/wproofreader';
+import RestrictedEditingMode from '@ckeditor/ckeditor5-restricted-editing/src/restrictededitingmode';
 
 class ClassicEditor extends ClassicEditorBase {}
 class InlineEditor extends InlineEditorBase {}
@@ -120,6 +121,10 @@ const plugins = [
 	ExportWord,
 	WProofreader, // Needs configuration if added.
 	WordCount
+];
+
+const extraPlugins = [
+	RestrictedEditingMode
 ];
 
 // Editor configuration.
@@ -201,7 +206,7 @@ BalloonEditor.defaultConfig = config;
 DcoupledEditor.defaultConfig = config;
 
 export default {
-	ClassicEditor, BalloonEditor, InlineEditor, DcoupledEditor
+	ClassicEditor, BalloonEditor, InlineEditor, DcoupledEditor, extraPlugins
 };
 
 function RemoveFormatLinks( editor ) {
