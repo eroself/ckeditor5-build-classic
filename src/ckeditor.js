@@ -156,7 +156,7 @@ const config = {
 			'alignment',
 			'codeBlock',
 			'highlight',
-			// 'restrictedEditing',
+			'restrictedEditing',
 			'restrictedEditingException',
 			'todoList',
 			'|',
