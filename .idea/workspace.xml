@@ -60,7 +60,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5685b313-1cba-4d66-a567-a51df38ddd3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ckeditor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,7 +198,9 @@
       <workItem from="1599700039002" duration="810000" />
       <workItem from="1599711119840" duration="5608000" />
       <workItem from="1600052710711" duration="5639000" />
-      <workItem from="1601425781802" duration="3420000" />
+      <workItem from="1601425781802" duration="3814000" />
+      <workItem from="1601432097275" duration="1288000" />
+      <workItem from="1601598939063" duration="57000" />
     </task>
     <servers />
   </component>

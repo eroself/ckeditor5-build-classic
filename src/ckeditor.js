@@ -109,6 +109,7 @@ const plugins = [
 	RemoveFormat,
 	RemoveFormatLinks,
 	StandardEditingMode,
+	RestrictedEditingMode,
 	SpecialCharacters,
 	SpecialCharactersEssentials,
 	TodoList,
@@ -121,10 +122,6 @@ const plugins = [
 	ExportWord,
 	WProofreader, // Needs configuration if added.
 	WordCount
-];
-
-const extraPlugins = [
-	RestrictedEditingMode
 ];
 
 // Editor configuration.
@@ -206,7 +203,7 @@ BalloonEditor.defaultConfig = config;
 DcoupledEditor.defaultConfig = config;
 
 export default {
-	ClassicEditor, BalloonEditor, InlineEditor, DcoupledEditor, extraPlugins
+	ClassicEditor, BalloonEditor, InlineEditor, DcoupledEditor
 };
 
 function RemoveFormatLinks( editor ) {
