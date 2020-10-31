@@ -62,8 +62,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ckeditor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +123,7 @@
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="node.js.selected.package.stylelint" value="C:\dev\ckeditor5-build-custom\node_modules\stylelint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -205,6 +203,8 @@
       <workItem from="1601432097275" duration="1288000" />
       <workItem from="1601598939063" duration="488000" />
       <workItem from="1601601005040" duration="840000" />
+      <workItem from="1601811547299" duration="1254000" />
+      <workItem from="1604141984880" duration="980000" />
     </task>
     <servers />
   </component>
@@ -262,7 +262,6 @@
     <state x="2703" y="446" width="298" height="178" key="#ESLint" timestamp="1601427712015">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="558" y="360" key="#ESLint/0.0.1368.872@0.0.1368.872" timestamp="1593346278019" />
     <state x="2703" y="446" width="298" height="178" key="#ESLint/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601427712015" />
     <state x="549" y="116" width="811" height="845" key="#Project_Structure" timestamp="1601249586113">
       <screen x="1099" y="0" width="821" height="1080" />
@@ -314,9 +313,10 @@
     <state x="1218" y="147" width="588" height="633" key="RollbackChangesDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601249534868" />
     <state x="2198" y="147" key="RollbackChangesDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601077233" />
     <state x="1177" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600052744293" />
-    <state x="2339" y="136" width="910" height="845" key="SettingsEditor" timestamp="1601601848369">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="299" y="110" width="912" height="706" key="SettingsEditor" timestamp="1604142967027">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="299" y="110" width="912" height="706" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1604142967027" />
     <state x="550" y="116" width="821" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601250064172" />
     <state x="2339" y="136" width="910" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601848369" />
     <state x="469" y="116" width="869" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600057065063" />
@@ -328,10 +328,6 @@
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
     <state x="679" y="350" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599603313821" />
-    <state x="113" y="70" key="new project wizard" timestamp="1593841484398">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="113" y="70" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1593841484398" />
     <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1597136464096">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
