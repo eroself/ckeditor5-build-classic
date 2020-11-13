@@ -61,6 +61,7 @@ import ExportPdf from '@ckeditor/ckeditor5-export-pdf/src/exportpdf';
 import ExportWord from '@ckeditor/ckeditor5-export-word/src/exportword';
 import WProofreader from '@webspellchecker/wproofreader-ckeditor5/src/wproofreader';
 import RestrictedEditingMode from '@ckeditor/ckeditor5-restricted-editing/src/restrictededitingmode';
+import HtmlEmbed from '@ckeditor/ckeditor5-html-embed/src/htmlembed';
 
 class ClassicEditor extends ClassicEditorBase {}
 class InlineEditor extends InlineEditorBase {}
@@ -90,6 +91,7 @@ const plugins = [
 	Heading,
 	Font,
 	Highlight,
+	HtmlEmbed,
 	HorizontalLine,
 	Image,
 	ImageCaption,
@@ -167,6 +169,7 @@ const config = {
 			'blockQuote',
 			'insertTable',
 			'mediaEmbed',
+			'htmlEmbed',
 			'undo',
 			'redo'
 		]

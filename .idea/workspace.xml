@@ -62,6 +62,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ckeditor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +205,9 @@
       <workItem from="1601598939063" duration="488000" />
       <workItem from="1601601005040" duration="840000" />
       <workItem from="1601811547299" duration="1254000" />
-      <workItem from="1604141984880" duration="980000" />
+      <workItem from="1604141984880" duration="1493000" />
+      <workItem from="1605090009261" duration="121000" />
+      <workItem from="1605257514406" duration="1827000" />
     </task>
     <servers />
   </component>
@@ -313,10 +316,10 @@
     <state x="1218" y="147" width="588" height="633" key="RollbackChangesDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601249534868" />
     <state x="2198" y="147" key="RollbackChangesDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601077233" />
     <state x="1177" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600052744293" />
-    <state x="299" y="110" width="912" height="706" key="SettingsEditor" timestamp="1604142967027">
+    <state x="299" y="110" width="912" height="706" key="SettingsEditor" timestamp="1605258362512">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="299" y="110" width="912" height="706" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1604142967027" />
+    <state x="299" y="110" width="912" height="706" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1605258362512" />
     <state x="550" y="116" width="821" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601250064172" />
     <state x="2339" y="136" width="910" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601848369" />
     <state x="469" y="116" width="869" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600057065063" />
