@@ -29,7 +29,7 @@
 <script src="../build/ckeditor.js"></script>
 <script>
 	CKEDITOR.ClassicEditor.create( document.querySelector( '#editor' ), {
-		removePlugins: [ 'WProofreader','RestrictedEditingMode' ]
+		removePlugins: [ 'WProofreader','RestrictedEditingMode', 'Markdown' ]
 	}).then( editor => {
 			window.editor = editor;
 		} )

@@ -62,6 +62,8 @@ import ExportWord from '@ckeditor/ckeditor5-export-word/src/exportword';
 import WProofreader from '@webspellchecker/wproofreader-ckeditor5/src/wproofreader';
 import RestrictedEditingMode from '@ckeditor/ckeditor5-restricted-editing/src/restrictededitingmode';
 import HtmlEmbed from '@ckeditor/ckeditor5-html-embed/src/htmlembed';
+import SelectAll from '@ckeditor/ckeditor5-select-all/src/selectall';
+import Markdown from '@ckeditor/ckeditor5-markdown-gfm/src/markdown';
 
 class ClassicEditor extends ClassicEditorBase {}
 class InlineEditor extends InlineEditorBase {}
@@ -89,6 +91,8 @@ const plugins = [
 	EasyImage,
 	Base64UploadAdapter,
 	Heading,
+	SelectAll,
+	Markdown,
 	Font,
 	Highlight,
 	HtmlEmbed,
@@ -162,6 +166,7 @@ const config = {
 			'restrictedEditingException',
 			'todoList',
 			'|',
+			'selectAll',
 			'exportPdf',
 			'exportWord',
 			'imageUpload',
