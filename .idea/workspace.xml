@@ -60,8 +60,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5685b313-1cba-4d66-a567-a51df38ddd3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,18 +314,19 @@
     <state x="2198" y="147" key="RollbackChangesDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601077233" />
     <state x="1177" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600052744293" />
     <state x="2198" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997908851" />
-    <state x="2340" y="136" width="1024" height="845" key="SettingsEditor" timestamp="1607998257527">
+    <state x="2340" y="136" width="1024" height="845" key="SettingsEditor" timestamp="1607998754700">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="299" y="110" width="912" height="706" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1605511522574" />
     <state x="550" y="116" width="821" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601250064172" />
     <state x="2339" y="136" width="910" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601848369" />
     <state x="469" y="116" width="869" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600057065063" />
-    <state x="2340" y="136" width="1024" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607998257527" />
-    <state x="1332" y="324" width="588" height="657" key="find.popup" timestamp="1599603434643">
-      <screen x="1099" y="0" width="821" height="1080" />
+    <state x="2340" y="136" width="1024" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607998754700" />
+    <state x="2335" y="272" width="1376" height="657" key="find.popup" timestamp="1607998930986">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="1332" y="324" width="588" height="657" key="find.popup/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599603434643" />
+    <state x="2335" y="272" width="1376" height="657" key="find.popup/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607998930986" />
     <state x="679" y="350" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog" timestamp="1599603313821">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
