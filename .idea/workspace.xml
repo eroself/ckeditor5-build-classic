@@ -62,8 +62,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ckeditor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +123,7 @@
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="node.js.selected.package.stylelint" value="C:\dev\ckeditor5-build-custom\node_modules\stylelint" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -272,17 +270,18 @@
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
     <state x="549" y="116" width="811" height="845" key="#Project_Structure/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601249586113" />
-    <state x="632" y="428" width="645" height="222" key="#Stylelint" timestamp="1599610147323">
-      <screen x="1099" y="0" width="821" height="1080" />
+    <state x="828" y="428" width="869" height="222" key="#Stylelint" timestamp="1607997817605">
+      <screen x="1051" y="0" width="869" height="1080" />
     </state>
     <state x="632" y="428" width="645" height="222" key="#Stylelint/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599610147323" />
-    <state x="949" y="59" width="821" height="725" key="DiffContextDialog" timestamp="1601601075941">
-      <screen x="1099" y="0" width="821" height="1080" />
+    <state x="828" y="428" width="869" height="222" key="#Stylelint/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997817605" />
+    <state x="717" y="68" width="869" height="725" key="DiffContextDialog" timestamp="1607997907198">
+      <screen x="1051" y="0" width="869" height="1080" />
     </state>
-    <state x="131" y="71" width="1094" height="725" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1597140476290" />
     <state x="684" y="59" key="DiffContextDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601249532898" />
     <state x="949" y="59" width="821" height="725" key="DiffContextDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601075941" />
     <state x="612" y="59" key="DiffContextDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600052741191" />
+    <state x="717" y="68" width="869" height="725" key="DiffContextDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997907198" />
     <state x="1486" y="194" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599711256096">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
@@ -290,41 +289,38 @@
     <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1599626966655">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
-    <state width="1326" height="322" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
     <state width="1874" height="287" key="GridCell.Tab.0.bottom/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599626966655" />
     <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1599626966655">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
-    <state width="1326" height="322" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
     <state width="1874" height="287" key="GridCell.Tab.0.center/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599626966655" />
     <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1599626966655">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
-    <state width="1326" height="322" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
     <state width="1874" height="287" key="GridCell.Tab.0.left/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599626966655" />
     <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1599626966655">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
-    <state width="1326" height="322" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1597140061544" />
     <state width="1874" height="287" key="GridCell.Tab.0.right/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599626966655" />
     <state x="549" y="285" width="811" height="507" key="NewModule_or_Project.wizard" timestamp="1599711260870">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
     <state x="549" y="285" width="811" height="507" key="NewModule_or_Project.wizard/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599711260870" />
-    <state x="2198" y="147" width="588" height="633" key="RollbackChangesDialog" timestamp="1601601077233">
+    <state x="2198" y="147" width="588" height="633" key="RollbackChangesDialog" timestamp="1607997908851">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="198" y="119" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1597140478173" />
     <state x="1218" y="147" width="588" height="633" key="RollbackChangesDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601249534868" />
     <state x="2198" y="147" key="RollbackChangesDialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601077233" />
     <state x="1177" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600052744293" />
-    <state x="299" y="110" width="912" height="706" key="SettingsEditor" timestamp="1605511522574">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="2198" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997908851" />
+    <state x="2340" y="136" width="1024" height="845" key="SettingsEditor" timestamp="1607998257527">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="299" y="110" width="912" height="706" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1605511522574" />
     <state x="550" y="116" width="821" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1601250064172" />
     <state x="2339" y="136" width="910" height="845" key="SettingsEditor/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601601848369" />
     <state x="469" y="116" width="869" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1051.0.869.1080" timestamp="1600057065063" />
+    <state x="2340" y="136" width="1024" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607998257527" />
     <state x="1332" y="324" width="588" height="657" key="find.popup" timestamp="1599603434643">
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
@@ -333,9 +329,5 @@
       <screen x="1099" y="0" width="821" height="1080" />
     </state>
     <state x="679" y="350" width="550" height="377" key="jetbrains.nodejs.interpreters-dialog/1032.1080.1920.1080/1099.0.821.1080/1920.0.1920.1080@1099.0.821.1080" timestamp="1599603313821" />
-    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1597136464096">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1597136464096" />
   </component>
 </project>
