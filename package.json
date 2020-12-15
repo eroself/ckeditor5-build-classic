@@ -119,7 +119,6 @@
     "@ckeditor/ckeditor5-special-characters": "^24.0.0",
     "@ckeditor/ckeditor5-watchdog": "^24.0.0",
     "@ckeditor/ckeditor5-word-count": "^24.0.0",
-    "@webspellchecker/wproofreader-ckeditor5": "^1.0.5",
-    "n": "^6.8.0"
+    "@webspellchecker/wproofreader-ckeditor5": "^1.0.5"
   }
 }
