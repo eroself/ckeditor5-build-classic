@@ -268,9 +268,10 @@
       <screen x="1051" y="0" width="869" height="1080" />
     </state>
     <state x="828" y="428" width="869" height="222" key="#Stylelint/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997817605" />
-    <state x="717" y="68" width="869" height="725" key="DiffContextDialog" timestamp="1607997907198">
-      <screen x="1051" y="0" width="869" height="1080" />
+    <state x="13" y="71" width="869" height="725" key="DiffContextDialog" timestamp="1611653626700">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="13" y="71" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1611653626700" />
     <state x="717" y="68" width="869" height="725" key="DiffContextDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997907198" />
     <state width="1312" height="318" key="GridCell.Tab.0.bottom" timestamp="1611653072436">
       <screen x="0" y="0" width="1368" height="872" />
@@ -288,9 +289,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state width="1312" height="318" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1611653072435" />
-    <state x="2198" y="147" width="588" height="633" key="RollbackChangesDialog" timestamp="1607997908851">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="198" y="119" width="588" height="633" key="RollbackChangesDialog" timestamp="1611653628413">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="198" y="119" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1611653628413" />
     <state x="2198" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997908851" />
     <state x="299" y="110" width="1024" height="845" key="SettingsEditor" timestamp="1611652357364">
       <screen x="0" y="0" width="1368" height="872" />
