@@ -64,6 +64,7 @@ import RestrictedEditingMode from '@ckeditor/ckeditor5-restricted-editing/src/re
 import HtmlEmbed from '@ckeditor/ckeditor5-html-embed/src/htmlembed';
 import SelectAll from '@ckeditor/ckeditor5-select-all/src/selectall';
 import Markdown from '@ckeditor/ckeditor5-markdown-gfm/src/markdown';
+import CloudServices from '@ckeditor/ckeditor5-cloud-services/src/cloudservices';
 
 class ClassicEditor extends ClassicEditorBase {}
 class InlineEditor extends InlineEditorBase {}
@@ -74,6 +75,7 @@ class BalloonEditor extends BalloonEditorBase {}
 const plugins = [
 	Essentials,
 	UploadAdapter,
+	CloudServices,
 	Autoformat,
 	Autosave,
 	Alignment,

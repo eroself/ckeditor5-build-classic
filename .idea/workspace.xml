@@ -63,6 +63,7 @@
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ckeditor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +113,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -132,6 +134,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -209,7 +212,8 @@
       <workItem from="1605090009261" duration="121000" />
       <workItem from="1605257514406" duration="3062000" />
       <workItem from="1605493582230" duration="3270000" />
-      <workItem from="1611995283921" duration="5887000" />
+      <workItem from="1611995283921" duration="7324000" />
+      <workItem from="1617523773484" duration="3257000" />
     </task>
     <servers />
   </component>
@@ -268,42 +272,37 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="0" y="247" width="1368" height="220" key="#Stylelint/0.0.1368.872@0.0.1368.872" timestamp="1612001030422" />
-    <state x="828" y="428" width="869" height="222" key="#Stylelint/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997817605" />
     <state x="13" y="71" width="869" height="725" key="DiffContextDialog" timestamp="1611653626700">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="13" y="71" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1611653626700" />
-    <state x="717" y="68" width="869" height="725" key="DiffContextDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997907198" />
-    <state width="1312" height="318" key="GridCell.Tab.0.bottom" timestamp="1611740856731">
+    <state width="1326" height="321" key="GridCell.Tab.0.bottom" timestamp="1617525523277">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1312" height="318" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1611740856731" />
-    <state width="1312" height="318" key="GridCell.Tab.0.center" timestamp="1611740856731">
+    <state width="1326" height="321" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1617525523277" />
+    <state width="1326" height="321" key="GridCell.Tab.0.center" timestamp="1617525523277">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1312" height="318" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1611740856731" />
-    <state width="1312" height="318" key="GridCell.Tab.0.left" timestamp="1611740856730">
+    <state width="1326" height="321" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1617525523277" />
+    <state width="1326" height="321" key="GridCell.Tab.0.left" timestamp="1617525523276">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1312" height="318" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1611740856730" />
-    <state width="1312" height="318" key="GridCell.Tab.0.right" timestamp="1611740856731">
+    <state width="1326" height="321" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1617525523276" />
+    <state width="1326" height="321" key="GridCell.Tab.0.right" timestamp="1617525523277">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1312" height="318" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1611740856731" />
+    <state width="1326" height="321" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1617525523277" />
     <state x="198" y="119" width="588" height="633" key="RollbackChangesDialog" timestamp="1611653628413">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="198" y="119" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1611653628413" />
-    <state x="2198" y="147" key="RollbackChangesDialog/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607997908851" />
-    <state x="299" y="110" width="1024" height="845" key="SettingsEditor" timestamp="1611995904255">
+    <state x="299" y="110" width="1024" height="845" key="SettingsEditor" timestamp="1617525518742">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="299" y="110" width="912" height="706" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1611995904255" />
-    <state x="2340" y="136" width="1024" height="845" key="SettingsEditor/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607998754700" />
-    <state x="296" y="220" width="981" height="531" key="find.popup" timestamp="1612000193195">
+    <state x="299" y="110" width="912" height="706" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1617525518742" />
+    <state x="296" y="220" width="981" height="531" key="find.popup" timestamp="1612001753368">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="296" y="220" width="981" height="531" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1612000193195" />
-    <state x="2335" y="272" width="1376" height="657" key="find.popup/1051.0.869.1080/1920.0.1920.1080/984.1080.1920.1080@1920.0.1920.1080" timestamp="1607998930986" />
+    <state x="296" y="220" width="981" height="531" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1612001753368" />
   </component>
 </project>
